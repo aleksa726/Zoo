@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pandica">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="PANDICA"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Pandica">
+        <activity
+            android:name=".DetaljiZivotinjeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ObavestenjaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromenaPodatakaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromenaLozinkeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KropaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MojProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZivotinjeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DesavanjaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PaketiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistracijaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="YourAppName"
+            android:theme="@style/Theme.Pandica.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

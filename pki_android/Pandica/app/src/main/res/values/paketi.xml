@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="id">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+
+    <string-array name="naslov">
+        <item>VIKEND PAKET</item>
+        <item>NOVOGODISNJI PAKET</item>
+        <item>BLACK FRIDAY</item>
+    </string-array>
+
+    <integer-array name="cena">
+        <item>300</item>
+        <item>1000</item>
+        <item>500</item>
+    </integer-array>
+
+    <string-array name="opis">
+        <item>Samo ovog vikenda, cena ulaznice za jednu osobu po promotivnoj ceni od 300 dinara!</item>
+        <item>U toku novogodisnjih praznika, cena porodicne ulaznice ce iznositi 1000 dinara!</item>
+        <item>BLACK FRIDAY AKCIJA! Cena ulaznice za dve osobe po ceni ulaznice za jednu osobu!</item>
+    </string-array>
+
+    <array name="slika">
+        <item>@drawable/paket1</item>
+        <item>@drawable/paket2</item>
+        <item>@drawable/paket3</item>
+    </array>
+
+</resources>

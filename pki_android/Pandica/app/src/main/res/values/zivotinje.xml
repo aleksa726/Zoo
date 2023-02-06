@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="idZivotinje">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+
+    <string-array name="nazivZivotinje">
+        <item>PANDA</item>
+        <item>LISICA</item>
+        <item>SLON</item>
+        <item>SOVA</item>
+        <item>PAUN</item>
+        <item>ORAO</item>
+    </string-array>
+
+
+    <string-array name="opisZivotinje">
+        <item>Velika panda  je krupni sisar iz porodice medveda, poreklom iz centralno-zapadne i jugozapadne Kine. Lako se prepoznaje po upadljivim crnim oznakama oko očiju, na ušima i preko svog zaobljenog tela. Iako pripada redu zveri, koje karakteriše ishrana mesom, džinovska panda se u 99% slučajeva hrani mladicama i listovima bambusa.</item>
+        <item>LISICA...</item>
+        <item>SLON...</item>
+        <item>SOVA...</item>
+        <item>PAUN...</item>
+        <item>ORAO...</item>
+    </string-array>
+
+    <array name="slikaZivotinje">
+        <item>@drawable/panda</item>
+        <item>@drawable/lisica</item>
+        <item>@drawable/slon</item>
+        <item>@drawable/sova</item>
+        <item>@drawable/paun</item>
+        <item>@drawable/orao</item>
+    </array>
+
+</resources>

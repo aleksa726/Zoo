@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tekstObavestenja">
+        <item>Vasa porudzbina - standardna karta X 1, porodicna karta X 2, je odobrena.</item>
+        <item>Vasa porudzbina - standardna karta X 3, vikend paket X 1, je odbijena.</item>
+    </string-array>
+
+    <string-array name="korisnikObavestenja">
+        <item>aleksa726</item>
+        <item>aleksa726</item>
+    </string-array>
+
+</resources>

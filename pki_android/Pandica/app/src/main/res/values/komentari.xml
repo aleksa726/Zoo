@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="idZivotinjeKomentara">
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="tekstKomentara">
+        <item>Panda je zanimljiva zivotinja!</item>
+        <item>Panda...</item>
+        <item>Lisica...</item>
+    </string-array>
+
+    <string-array name="korisnikKomentara">
+        <item>aleksa726</item>
+        <item>aleksa726</item>
+        <item>aleksa726</item>
+    </string-array>
+</resources>

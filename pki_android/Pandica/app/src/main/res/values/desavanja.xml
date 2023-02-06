@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="idDesavanja">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+
+    <string-array name="nazivDesavanja">
+        <item>PROGRAM EDUKACIJE</item>
+        <item>ZOO IZAZOV</item>
+        <item>KURS - NEGA I ISHRANA ZIVOTINJA</item>
+        <item>PRAKSA ZA VETERINARE</item>
+        <item>SCAVANGER HUNT</item>
+    </string-array>
+
+    <string-array name="datumDesavanja">
+        <item>22.11.2022.</item>
+        <item>18.11.2022.</item>
+        <item>29.10.2022.</item>
+        <item>17.10.2022.</item>
+        <item>7.10.2022.</item>
+    </string-array>
+
+
+    <string-array name="opisDesavanja">
+        <item>Program edukacije mladjih osnovaca je dostupan u ZOO vrtu Pandica! U saradnji sa osnovnim skolama u Beogradu, preko 300 osnovaca ce imati priliku da se edukuje na temu zivotinja!",
+        datum: "22.11.2022.</item>
+        <item>Pokazite timski duh, poznavanje zivotinja i snalazenje u prostoru! Vas tim dobija pocetni trag koji vas vodi kroz razlicite avanture do konacnog resenja misterija zoo-vrta Pandica!</item>
+        <item>U okviru kursa - “Nega i ishrana zivotinja” cemo prikazati na koji nacin se ispravno sprovodi higijena raznih zivotinja, kao i zdrava i uravnotezena ishrana.",
+        datum: "29.10.2022.</item>
+        <item>U okviru desavanja - “Praksa za veterinare”, svi studenti Fakulteta veterinarske medicine ce moci besplatno da dodju u nas zooloski vrt kako bi usavrsili svoje poznavanje zivotinja.</item>
+        <item>Ucensnici Scavanger hunt-a ce biti podeljeni u timove od po 4 osobe. Svi timovi dobijaju spisak zivotinja koje treba da pronadju i fotografisu telefonom. Prvi tim koji ispuni sve zadatke je pobednik!</item>
+    </string-array>
+
+    <array name="slikaDesavanja">
+        <item>@drawable/desavanje1</item>
+        <item>@drawable/desavanje2</item>
+        <item>@drawable/desavanje3</item>
+        <item>@drawable/desavanje4</item>
+        <item>@drawable/desavanje5</item>
+    </array>
+
+    <integer-array name="lajkoviDesavanja">
+        <item>22</item>
+        <item>50</item>
+        <item>31</item>
+        <item>37</item>
+        <item>48</item>
+    </integer-array>
+
+</resources>

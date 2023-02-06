@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="idUlaznica">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+
+    <string-array name="naslovUlaznica">
+        <item>ULAZNICA ZA 1 OSOBU</item>
+        <item>ULAZNICA ZA 2 OSOBE</item>
+        <item>ULAZNICA ZA PORODICU</item>
+        <item>ULAZNICA ZA DETE</item>
+        <item>ULAZNICA ZA 5 OSOBA</item>
+        <item>ULAZNICA ZA 10 OSOBA</item>
+    </string-array>
+
+    <integer-array name="cenaUlaznica">
+        <item>500</item>
+        <item>900</item>
+        <item>1200</item>
+        <item>300</item>
+        <item>1800</item>
+        <item>3500</item>
+    </integer-array>
+
+
+</resources>

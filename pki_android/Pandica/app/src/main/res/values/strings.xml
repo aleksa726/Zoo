@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pandica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uvod">Dobrodosli u zooloski vrt Pandica!\n\n U okviru naseg zooloskog vrta mozete videti raznorazne egzoticne zivotinje.\n\n Nudimo Vam raznovrsnu podunu paketa u okviru kojih mozete uzivati sa porodicom i prijateljima u obilasku naseg zooloskog vrt</string>
+    <string name="paket1">Samo ovog vikenda, cena ulaznice za jednu osobu iznosi 300 dinara</string>
+    <string name="ulaznica1">Cena: 500 dinara</string>
+    <string name="desavanj2">Pokazite timski duh, poznavanje zivotinja i snalazenje u prostoru! Vas tim dobija pocetni trag koji vas vodi kroz razlicite avanture do konacnog resenja misterija zoo-vrta Pandica!</string>
+    <string name="panda">Velika panda je krupni sisar iz porodice medveda, poreklom iz centralno-zapadne i jugozapadne Kine. Lako se prepoznaje po upadljivim crnim oznakama oko očiju, na ušima i preko svog zaobljenog tela. Iako pripada redu zveri, koje karakteriše ishrana mesom, džinovska panda se u 99% slučajeva hrani mladicama i listovima bambusa.</string>
+    <string name="komentar1">Panda je jako zanimljiva zivotinja!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="vikend_paket">VIKEND PAKET</string>
+</resources>

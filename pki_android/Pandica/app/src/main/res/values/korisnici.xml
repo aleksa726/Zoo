@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array  name="korime">
+        <item>aleksa726</item>
+        <item>admin</item>
+    </string-array>
+
+    <string-array name="lozinka">
+        <item>lozinka</item>
+        <item>admin</item>
+    </string-array>
+
+    <string-array name="ime">
+        <item>Aleksa</item>
+        <item>Admin</item>
+    </string-array>
+
+    <string-array name="prezime">
+        <item>Vukovic</item>
+        <item>Admin</item>
+    </string-array>
+
+    <string-array name="adresa">
+        <item>Beograd</item>
+        <item>Beograd</item>
+    </string-array>
+
+    <string-array name="telefon">
+        <item>0640275882</item>
+        <item>1234</item>
+    </string-array>
+
+   <integer-array name="tip">
+       <item>0</item>
+       <item>1</item>
+   </integer-array>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Paketi" android:id="@+id/paketi"/>
+    <item android:title="Zivotinje" android:id="@+id/zivotinje"/>
+    <item android:title="Desavanja" android:id="@+id/desavanja"/>
+    <item android:title="Moj Profil" android:id="@+id/mojprofil"/>
+    <item android:title="Korpa" android:id="@+id/korpa"/>
+</menu>

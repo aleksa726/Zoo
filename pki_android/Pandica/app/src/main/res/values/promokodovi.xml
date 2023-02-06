@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="kod">
+        <item>SALE10</item>
+        <item>SALE20</item>
+    </string-array>
+
+    <integer-array name="popust">
+        <item>90</item>
+        <item>80</item>
+    </integer-array>
+
+</resources>
